@@ -4,8 +4,10 @@
   "description": "The AEH solo 10 system for FoundryVTT!",
   "authors": [
     {
-      "name": "Asacolips",
-      "discord": "asacolips"
+      "name": "Amauri Antunes Pereira Junior"
+    },
+    {
+      "name": "Diogo Verskald"
     }
   ],
   "url": "Replace this with a link to your public repository",
